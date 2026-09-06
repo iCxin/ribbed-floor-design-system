@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+*.exe
+*.o
+*.obj
+*.lib
+
+# IDE / editor
+.vs/
+.vscode/
+.idea/
+*.user
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local tooling
+.playwright-mcp/
