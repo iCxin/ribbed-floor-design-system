@@ -25,6 +25,10 @@
 
 > ⚠️ 本项目输出为**辅助计算结果**，用于实际工程设计前须经注册结构工程师复核。
 
+**姊妹项目**：[ribbed-floor-web](https://github.com/iCxin/ribbed-floor-web) ——
+同一算法与协议的**纯前端版**（TypeScript 内核 + React + shadcn 风格 UI），
+支持在腾讯云 EdgeOne Pages 一键部署，无需任何本地安装。
+
 ## 截图
 
 | 双向板设计报告（亮色） | 暗色主题 | 单向板计算报告 |
